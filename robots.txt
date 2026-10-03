@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://passalacqua51.github.io/chile-utiles/sitemap.xml
